@@ -5,14 +5,14 @@
 
 ### Robotics
 
-Free (!) Robotics Toolbox for Matlab :  
+Free (!) Robotics Toolbox for Matlab, with a still active community : 
 * https://github.com/petercorke/robotics-toolbox-matlab  
 * https://petercorke.com/  
 
-An adaptation in scilab/scicos : 
+A rather old adaptation in scilab/scicos (circa 2010)
 * http://rtss.sourceforge.net/
 
-... and in Python : 
+... and in Python (2008)
 * https://code.google.com/archive/p/robotics-toolbox-python/
 
 ### Simulation (Misc.)
