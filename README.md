@@ -37,9 +37,9 @@ https://github.com/pydy/pydy
 ### Optimization
 
 The GENO Modeling Language  
-http://www.geno-project.org/  
+http://www.geno-project.org/ : automatically generates Python code from an easy to read language  
 
-http://www.matrixcalculus.org/  
+http://www.matrixcalculus.org/ : online tool that computes vector and matrix derivatives  
 
 
 ### Metamodels
