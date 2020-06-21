@@ -17,7 +17,7 @@ A rather old adaptation in scilab/scicos (circa 2010)
 
 ### Simulation (Misc.)
 
-Modia3D : a Julia package for 3D geometry and mechanics
+Modia3D : a Julia package for 3D geometry and mechanics  
 https://github.com/ModiaSim/Modia3D.jl  
 https://modiasim.github.io/Modia3D.jl/stable/  
 
