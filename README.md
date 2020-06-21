@@ -17,6 +17,7 @@ A rather old adaptation in scilab/scicos (circa 2010)
 
 ### Simulation (Misc.)
 
+Modia3D : a Julia package for 3D geometry and mechanics
 https://github.com/ModiaSim/Modia3D.jl  
 https://modiasim.github.io/Modia3D.jl/stable/  
 
@@ -36,10 +37,11 @@ https://github.com/pydy/pydy
 
 ### Optimization
 
-The GENO Modeling Language  
-http://www.geno-project.org/ : automatically generates Python code from an easy to read language  
+The GENO Modeling Language : automatically generates Python code from an easy to read language  
+http://www.geno-project.org/ 
 
-http://www.matrixcalculus.org/ : online tool that computes vector and matrix derivatives  
+Matrix Calculus : online tool that computes vector and matrix derivatives  
+http://www.matrixcalculus.org/ 
 
 
 ### Metamodels
