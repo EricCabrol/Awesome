@@ -34,7 +34,15 @@ https://github.com/TUMFTM/laptime-simulation
 https://github.com/pydy/pydy  
 
 
-### Surrogate methods
+### Optimization
+
+The GENO Modeling Language  
+http://www.geno-project.org/  
+
+http://www.matrixcalculus.org/  
+
+
+### Metamodels
 
 SMT: Surrogate Modeling Toolbox  
 https://smt.readthedocs.io/en/latest/  
