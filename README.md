@@ -24,6 +24,18 @@ https://modiasim.github.io/Modia3D.jl/stable/
 
 https://github.com/meco-group/omg-tools  
 
+### Lap-time simulation
+
+https://github.com/TUMFTM/laptime-simulation  
+
+
 ### Multibody
 
 https://github.com/pydy/pydy  
+
+
+### Surrogate methods
+
+SMT: Surrogate Modeling Toolbox  
+https://smt.readthedocs.io/en/latest/  
+
