@@ -1,6 +1,6 @@
 # Resources
 
-## Some SciGeek (tm) stuff
+## SciGeek (tm) stuff
 
 
 ### Robotics
