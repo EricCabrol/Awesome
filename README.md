@@ -21,6 +21,10 @@ Modia3D : a Julia package for 3D geometry and mechanics
 https://github.com/ModiaSim/Modia3D.jl  
 https://modiasim.github.io/Modia3D.jl/stable/  
 
+
+MOBATSim (Model-based Autonomous Traffic Simulation Framework)
+https://github.com/MOBATSim/MOBATSim
+
 ### Motion planning
 
 https://github.com/meco-group/omg-tools  
@@ -49,3 +53,7 @@ http://www.matrixcalculus.org/
 SMT: Surrogate Modeling Toolbox  
 https://smt.readthedocs.io/en/latest/  
 
+### AI and CAE
+
+TensorFlowFoam 
+https://github.com/argonne-lcf/TensorFlowFoam
