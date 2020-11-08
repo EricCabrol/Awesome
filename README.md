@@ -1,4 +1,4 @@
-# Resources
+# Awesome resources
 
 ## SciGeek (tm) stuff
 
@@ -16,6 +16,10 @@ A rather old adaptation in scilab/scicos (circa 2010)
 * https://code.google.com/archive/p/robotics-toolbox-python/
 
 ### Simulation (Misc.)
+
+Simulation with Matlab, by Ivan Liebgott
+* in french : https://github.com/Ivan-LIEBGOTT/Livre_MATLAB_2020b
+* in english : https://github.com/Ivan-LIEBGOTT/Livre_2018a_English
 
 Modia3D : a Julia package for 3D geometry and mechanics  
 https://github.com/ModiaSim/Modia3D.jl  
