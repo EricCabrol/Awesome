@@ -17,7 +17,7 @@ A rather old adaptation in scilab/scicos (circa 2010)
 
 ### Simulation (Misc.)
 
-Simulation with Matlab, by Ivan Liebgott
+Systems simulation with Matlab, by Ivan Liebgott  
 * in french : https://github.com/Ivan-LIEBGOTT/Livre_MATLAB_2020b
 * in english : https://github.com/Ivan-LIEBGOTT/Livre_2018a_English
 
