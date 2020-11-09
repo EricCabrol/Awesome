@@ -59,12 +59,12 @@ https://smt.readthedocs.io/en/latest/
 
 ### AI and CAE
 
-TensorFlowFoam 
+TensorFlowFoam  
 https://github.com/argonne-lcf/TensorFlowFoam
 
 ### Javascript
 
-PapaParse
+PapaParse : The powerful, in-browser CSV parser for big boys and girls  
 https://github.com/mholt/PapaParse
 
 
