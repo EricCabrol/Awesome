@@ -26,7 +26,7 @@ https://github.com/ModiaSim/Modia3D.jl
 https://modiasim.github.io/Modia3D.jl/stable/  
 
 
-MOBATSim (Model-based Autonomous Traffic Simulation Framework)
+MOBATSim (Model-based Autonomous Traffic Simulation Framework)  
 https://github.com/MOBATSim/MOBATSim
 
 ### Motion planning
