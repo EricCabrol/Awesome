@@ -69,3 +69,6 @@ https://github.com/mholt/PapaParse
 
 Datatables : a jQuery plugin for tabbles  
 https://datatables.net/
+
+PHP : the right way  
+https://phptherightway.com/
