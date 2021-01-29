@@ -42,6 +42,8 @@ https://github.com/TUMFTM/laptime-simulation
 
 https://github.com/pydy/pydy  
 
+Uraeus MBD, by Khaled Ghobashy  
+https://github.com/khaledghobashy/uraeus_mbd  
 
 ### Optimization
 
