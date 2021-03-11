@@ -57,7 +57,7 @@ http://www.matrixcalculus.org/
 ### Metamodels
 
 SMT: Surrogate Modeling Toolbox  
-https://smt.readthedocs.io/en/latest/  
+https://github.com/SMTorg/SMT
 
 
 ### Javascript
