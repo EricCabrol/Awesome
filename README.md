@@ -59,20 +59,22 @@ http://www.matrixcalculus.org/
 SMT: Surrogate Modeling Toolbox  
 https://smt.readthedocs.io/en/latest/  
 
-### AI and CAE
-
-TensorFlowFoam  
-https://github.com/argonne-lcf/TensorFlowFoam
 
 ### Javascript
 
 PapaParse : The powerful, in-browser CSV parser for big boys and girls  
 https://github.com/mholt/PapaParse
 
-Datatables : a jQuery plugin for tabbles  
+Datatables : a jQuery plugin for tables  
 https://datatables.net/
 
 ### PHP
 
 PHP : the right way  
 https://phptherightway.com/
+
+
+### Signal processing
+
+The Kalman Filter (by Brian Douglas)  
+https://engineeringmedia.com/controlblog/the-kalman-filter
