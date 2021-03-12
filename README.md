@@ -34,6 +34,9 @@ https://modiasim.github.io/Modia3D.jl/stable/
 MOBATSim (Model-based Autonomous Traffic Simulation Framework)  
 https://github.com/MOBATSim/MOBATSim
 
+All about Modelica  
+https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html
+
 ### Motion planning
 
 https://github.com/meco-group/omg-tools  
