@@ -37,6 +37,9 @@ https://github.com/MOBATSim/MOBATSim
 All about Modelica  
 https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html
 
+LambdaSim : Converts simulation models to REST APIs  
+https://github.com/mbonvini/LambdaSim
+
 ### Motion planning
 
 https://github.com/meco-group/omg-tools  
