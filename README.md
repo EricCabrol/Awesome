@@ -11,20 +11,20 @@ https://engineeringmedia.com/blog-index
 ### Robotics
 
 Free (!) Robotics Toolbox for Matlab, with a still active community :  
-* https://github.com/petercorke/robotics-toolbox-matlab  
-* https://petercorke.com/  
+https://github.com/petercorke/robotics-toolbox-matlab  
+https://petercorke.com/  
 
-A rather old adaptation in scilab/scicos (circa 2010)
-* http://rtss.sourceforge.net/
+A rather old adaptation in scilab/scicos (circa 2010)  
+http://rtss.sourceforge.net/
 
-... and in Python (2008)
-* https://code.google.com/archive/p/robotics-toolbox-python/
+... and in Python (2008)  
+https://code.google.com/archive/p/robotics-toolbox-python/
 
 ### Simulation (Misc.)
 
 Systems simulation with Matlab, by Ivan Liebgott  
-* in french : https://github.com/Ivan-LIEBGOTT/Livre_MATLAB_2020b
-* in english : https://github.com/Ivan-LIEBGOTT/Livre_2018a_English
+in french : https://github.com/Ivan-LIEBGOTT/Livre_MATLAB_2020b  
+in english : https://github.com/Ivan-LIEBGOTT/Livre_2018a_English  
 
 Modia3D : a Julia package for 3D geometry and mechanics  
 https://github.com/ModiaSim/Modia3D.jl  
