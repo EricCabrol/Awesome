@@ -1,11 +1,16 @@
 # Awesome resources
 
-## SciGeek (tm) stuff
+### Compendium
 
+Control theory, signal processing .. Great selection of the best resources  
+https://resourcium.org/
+
+Brian Douglas blog  
+https://engineeringmedia.com/blog-index
 
 ### Robotics
 
-Free (!) Robotics Toolbox for Matlab, with a still active community : 
+Free (!) Robotics Toolbox for Matlab, with a still active community :  
 * https://github.com/petercorke/robotics-toolbox-matlab  
 * https://petercorke.com/  
 
