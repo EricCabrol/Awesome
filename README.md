@@ -64,6 +64,8 @@ http://www.geno-project.org/
 Matrix Calculus : online tool that computes vector and matrix derivatives  
 http://www.matrixcalculus.org/ 
 
+Dymos: Open Source Optimization of Dynamic Multidisciplinary Systems  
+https://github.com/OpenMDAO/dymos
 
 ### Metamodels
 
