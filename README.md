@@ -8,6 +8,11 @@ https://resourcium.org/
 Brian Douglas blog  
 https://engineeringmedia.com/blog-index
 
+### Data science
+
+The Data Engineering Cookbook  
+https://github.com/andkret/Cookbook  
+
 ### Robotics
 
 Free (!) Robotics Toolbox for Matlab, with a still active community :  
