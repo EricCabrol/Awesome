@@ -10,6 +10,12 @@
 
 [Steve Brunton](https://www.youtube.com/c/Eigensteve)
 
+# Optimisation
+
+[APMonitor](https://www.youtube.com/@apm)
+
+
+
 # Science vulgarisation
 
 [Veritasium](https://www.youtube.com/c/veritasium/videos)
