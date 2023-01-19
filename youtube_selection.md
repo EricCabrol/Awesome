@@ -26,7 +26,7 @@
 
 # Computer science
 
-[Fireship](https://www.youtube.com/c/Fireship/videos)
+[Fireship](https://www.youtube.com/c/Fireship/videos)  
 [Jacob Sorber](https://www.youtube.com/@JacobSorber)
 
 # Robotics
