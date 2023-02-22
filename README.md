@@ -13,6 +13,11 @@ https://engineeringmedia.com/blog-index
 The Data Engineering Cookbook  
 https://github.com/andkret/Cookbook  
 
+### Programming
+
+Julia Evans zines  
+https://wizardzines.com/comics/  
+
 ### Robotics
 
 Free (!) Robotics Toolbox for Matlab, with a still active community :  
