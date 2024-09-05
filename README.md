@@ -10,8 +10,12 @@ https://engineeringmedia.com/blog-index
 
 ### Data science
 
-The Data Engineering Cookbook  
+The Data Engineering Cookbook, by Andreas Kretz  
 https://github.com/andkret/Cookbook  
+
+CodeCut, by Khuyen Tran  
+https://codecut.ai/
+
 
 ### Programming
 
