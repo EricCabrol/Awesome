@@ -1,6 +1,6 @@
 # Awesome resources
 
-### Compendium
+### Control theory
 
 Control theory, signal processing .. Great selection of the best resources  
 https://resourcium.org/
@@ -104,6 +104,11 @@ https://datatables.net/
 
 PHP : the right way  
 https://phptherightway.com/
+
+### NVH
+
+Index of Simcenter Testing Knowledge Articles  
+https://community.sw.siemens.com/s/article/Index-of-Testing-Knowledge-Articles  
 
 
 ### Signal processing
