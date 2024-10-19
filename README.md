@@ -22,6 +22,11 @@ https://codecut.ai/
 Julia Evans zines  
 https://wizardzines.com/comics/  
 
+### Python
+
+TheAlgorithms/Python  
+https://thealgorithms.github.io/Python/  
+
 ### Robotics
 
 Free (!) Robotics Toolbox for Matlab, with a still active community :  
