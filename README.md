@@ -86,6 +86,11 @@ http://www.matrixcalculus.org/
 Dymos: Open Source Optimization of Dynamic Multidisciplinary Systems  
 https://github.com/OpenMDAO/dymos
 
+### Structural mechanics
+
+Tony Abbey webinars  
+https://fetraining.net/talking_shop-main/
+
 ### Metamodels
 
 SMT: Surrogate Modeling Toolbox  
