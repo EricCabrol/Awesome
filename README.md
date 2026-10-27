@@ -1,5 +1,11 @@
 # Awesome resources
 
+
+## Animations
+
+Bartosz Ciechanowski  
+https://ciechanow.ski/
+
 ### Control theory
 
 Control theory, signal processing .. Great selection of the best resources  
